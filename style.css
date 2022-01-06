@@ -1,0 +1,23 @@
+.google h1{
+    
+    border-style: insent;
+    background-color: darkcyan;
+    height: 70px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    text-align: center;
+
+}
+h1{
+    color: white;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
